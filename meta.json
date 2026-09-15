@@ -1,0 +1,18 @@
+{
+  "workDirId": "mu2jffyqzuq394",
+  "branch": "def-czm",
+  "uploaderBranch": true,
+  "githubAccount": "chang3m4n",
+  "displayName": "陈芷漫",
+  "scenario": "webbot",
+  "role": "solo_defense",
+  "userId": "343b84e8-13c8-4ffb-9d2d-564374f2ac8e",
+  "version": 1,
+  "originalZipName": "defense.py",
+  "archivedZip": false,
+  "uploadedAt": "2026-09-15T10:37:28.729Z",
+  "files": [
+    "defense.py"
+  ],
+  "skippedLargeFiles": []
+}
