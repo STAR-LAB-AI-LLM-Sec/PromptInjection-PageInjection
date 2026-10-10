@@ -1,0 +1,18 @@
+{
+  "workDirId": "mv26kg0p0a46gf",
+  "branch": "atk-LZF",
+  "uploaderBranch": true,
+  "githubAccount": "Ironman-zf",
+  "displayName": "刘智飞",
+  "scenario": "webbot",
+  "role": "solo_attack",
+  "userId": "021cb42e-8042-48ec-924f-7b8c1c146a6c",
+  "version": 1,
+  "originalZipName": "attack.py",
+  "archivedZip": false,
+  "uploadedAt": "2026-10-10T09:17:10.547Z",
+  "files": [
+    "attack.py"
+  ],
+  "skippedLargeFiles": []
+}
