@@ -1,0 +1,11 @@
+{
+  "workDirId": "mv26kg0p0a46gf",
+  "scenario": "webbot",
+  "role": "solo_attack",
+  "version": 1,
+  "uploadedAt": "2026-10-10T09:17:13.681Z",
+  "files": [
+    "attack.py",
+    "meta.json"
+  ]
+}
